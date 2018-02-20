@@ -1,0 +1,10 @@
+C:\Users\Guisbell\MvcPrueba\bin\MCD\Debug\netcoreapp2.0\MvcPrueba.deps.json
+C:\Users\Guisbell\MvcPrueba\bin\MCD\Debug\netcoreapp2.0\MvcPrueba.runtimeconfig.json
+C:\Users\Guisbell\MvcPrueba\bin\MCD\Debug\netcoreapp2.0\MvcPrueba.runtimeconfig.dev.json
+C:\Users\Guisbell\MvcPrueba\bin\MCD\Debug\netcoreapp2.0\MvcPrueba.dll
+C:\Users\Guisbell\MvcPrueba\bin\MCD\Debug\netcoreapp2.0\MvcPrueba.pdb
+C:\Users\Guisbell\MvcPrueba\obj\MCD\Debug\netcoreapp2.0\MvcPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Guisbell\MvcPrueba\obj\MCD\Debug\netcoreapp2.0\MvcPrueba.AssemblyInfoInputs.cache
+C:\Users\Guisbell\MvcPrueba\obj\MCD\Debug\netcoreapp2.0\MvcPrueba.AssemblyInfo.cs
+C:\Users\Guisbell\MvcPrueba\obj\MCD\Debug\netcoreapp2.0\MvcPrueba.dll
+C:\Users\Guisbell\MvcPrueba\obj\MCD\Debug\netcoreapp2.0\MvcPrueba.pdb
